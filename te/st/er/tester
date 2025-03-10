@@ -1,0 +1,14 @@
+{
+   "0.0.1":{
+      "package_name":"tester",
+      "version":"0.0.1",
+      "source_cid":"QmExampleHash",
+      "dependencies":[]
+   },
+   "0.0.2":{
+      "package_name":"tester",
+      "version":"0.0.2",
+      "source_cid":"QmOlderHash",
+      "dependencies":[]
+   }
+}
