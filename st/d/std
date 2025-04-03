@@ -6,3 +6,11 @@
       "dependencies":[]
    }
 }
+
+{
+  "name": "std",
+  "version": "0.7.0",
+  "source_cid": "QmbLkb3FCoVqdWeEYQ1AhZHf4BfoFMckYY8nPFDVMrq8KU",
+  "abi_cid": null,
+  "dependencies": []
+}
